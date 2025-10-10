@@ -32,6 +32,7 @@ jobs:
       - name: Deploy to S3
         run: aws s3 sync dist/ s3://abdul-portfolio-hosting --delete
 
+        
       - name: Invalidate CloudFront cache
         run: |
           CLOUDFRONT_ID=$(aws cloudfront list-distributions --query "DistributionList.Items[?Comment=='CloudFront distribution for Abdul Shaikh portfolio'].Id" --output text)
