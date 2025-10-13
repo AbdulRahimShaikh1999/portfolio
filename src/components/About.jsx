@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a passionate vos engineer with hands-on experience in AWS, Terraform, Docker, and CI/CD automation using GitHub Actions. I specialize in building scalable, secure, and cost-efficient cloud infrastructures while streamlining deployments through automation and Infrastructure as Code. I’m a problem-solver who values reliability, efficiency, and collaboration—let’s build systems that work smarter together!
+        I'm a passionate DevOps engineer with hands-on experience in AWS, Terraform, Docker, and CI/CD automation using GitHub Actions. I specialize in building scalable, secure, and cost-efficient cloud infrastructures while streamlining deployments through automation and Infrastructure as Code. I’m a problem-solver who values reliability, efficiency, and collaboration—let’s build systems that work smarter together!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
