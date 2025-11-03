@@ -117,10 +117,10 @@ const technologies = [
 const experiences = [
   {
     title: "DevOps Engineer",
-    company_name: "Canada Border Services Agency (CBSA) ",
+    company_name: "RAM tracking",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Jun 2023 - Sep 2023",
+    date: "Nov 2024 - Present",
     points: [
       "Collaborated with senior DevOps engineer to establish foundational AWS infrastructure, improving scalability and operational reliability for a new internal application.",
       "Reduced environment setup time by ~ 35% by provisioning and managing cloud resources with Terraform for IaC (Infrastructure as Code), leveraging version-controlled state files for reproducibility across deployments.",
