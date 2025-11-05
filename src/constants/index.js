@@ -153,7 +153,7 @@ const experiences = [
     points: [
       "Developed and maintained responsive React interfaces with modular components, integrating REST APIs and AWS-hosted services for dynamic content delivery.",
       "Implemented UI enhancements, accessibility fixes, and performance optimizations based on JIRA tickets and user feedback across multiple feature releases.",
-      "Utilized tools such as , Git, Github, Redux, Figma, and CloudFront to manage state, streamline collaboration, and deliver consistent, high-quality user experiences.",
+      "Utilized tools such as, Git, Github, Redux, Figma, and CloudFront to manage state, streamline collaboration, and deliver consistent, high-quality user experiences.",
     ],
   },
   // {
