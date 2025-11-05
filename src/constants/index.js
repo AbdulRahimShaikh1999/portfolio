@@ -144,15 +144,15 @@ const experiences = [
     ],
   },
   {
-    title: "Technical Account Executive",
-    company_name: "RAM Tracking",
+    title: "AWS Frontend Developer ",
+    company_name: "Canada Border Services Agency",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Nov 2024 - Present",
+    date: "Jul 2023 - Oct 2023",
     points: [
-      "Leveraging data-driven insights from vehicle telematics dashboards to provide tailored tracking solutions for commercial fleets.",
-      "Collaborating with technical teams to translate customer requirements into scalable tracking and reporting configurations.",
-      "Maintaining high client retention through consultative sales and product adoption support, ensuring alignment with evolving operational needs",
+      "Developed and maintained responsive React interfaces with modular components, integrating REST APIs and AWS-hosted services for dynamic content delivery.",
+      "Implemented UI enhancements, accessibility fixes, and performance optimizations based on JIRA tickets and user feedback across multiple feature releases.",
+      "Utilizing tools such as , Git, Github, Redux, Figma, and CloudFront to manage state, streamline collaboration, and deliver consistent, high-quality user experiences.",
     ],
   },
   // {
