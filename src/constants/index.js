@@ -122,7 +122,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nov 2024 - Present",
     points: [
-      "Collaborated with senior DevOps engineer to establish foundational \textbf{AWS infrastructure}, improving scalability and operational reliability for the Canadian side of the application as part of the sales process.",
+      "Collaborated with senior DevOps engineer to establish foundational AWS infrastructure, improving scalability and operational reliability for the Canadian side of the application as part of the sales process.",
       "Reduced environment setup time by ~ 35% by provisioning and managing cloud resources with Terraform for IaC / Infrastructure as Code and leveraging version-controlled state files for reproducibility across deployments.",
       "Improved release stability by ~ 30% by building and optimizing GitHub Actions CI/CD pipelines defined through YAML workflows, integrating build runners and automated testing workflows.",
       "Cut manual maintenance effort by ~ 25% by developing lightweight Python automation scripts to streamline log analysis and resource cleanup through CloudWatch and CloudTrail",
