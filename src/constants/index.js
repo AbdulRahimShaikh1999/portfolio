@@ -138,7 +138,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Oct 2023 - Nov 2024",
     points: [
-      "Designed, developed, and maintained the company’s responsive website using React and modern UI frameworks, ensuring consistent branding and user experience across devices.",
+      "Designed, developed, and maintained the company’s website using React and modern UI frameworks, ensuring consistent branding and user experience across devices.",
       "Deployed and managed the website through AWS services (S3, CloudFront, Route 53), optimizing uptime, speed, and global accessibility",
       "Implemented form handling and customer inquiry workflows using AWS Lambda and API Gateway integrations, improving response times and reliability",
     ],
