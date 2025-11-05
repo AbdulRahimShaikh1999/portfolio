@@ -125,7 +125,7 @@ const experiences = [
       "Collaborated with senior DevOps engineer to establish foundational AWS infrastructure, improving scalability and operational reliability for the Canadian side of the application as part of the sales process.",
       "Reduced environment setup time by ~ 35% by provisioning and managing cloud resources with Terraform for IaC / Infrastructure as Code and leveraging version-controlled state files for reproducibility across deployments.",
       "Improved release stability by ~ 30% by building and optimizing GitHub Actions CI/CD pipelines defined through YAML workflows, integrating build runners and automated testing workflows.",
-      "Cut manual maintenance effort by ~ 25% by developing lightweight Python automation scripts to streamline log analysis and resource cleanup through CloudWatch and CloudTrail",
+      "Cut manual maintenance effort by ~ 25% by developing lightweight Python automation scripts to streamline log analysis and resource cleanup through CloudWatch and CloudTrail logs.",
       "Created portable build artifacts by containerizing core application components with Docker, ensuring consistent testing environments and improving developer onboarding speed.",
       "Enhanced system visibility and uptime by implementing Lambda-based automation for periodic health checks and report generation.",
 
@@ -139,8 +139,8 @@ const experiences = [
     date: "Oct 2023 - Nov 2024",
     points: [
       "Designed, developed, and maintained the company’s website using React and modern UI frameworks, ensuring consistent branding and user experience across devices.",
-      "Deployed and managed the website through AWS services (S3, CloudFront, Route 53), optimizing uptime, speed, and global accessibility",
-      "Implemented form handling and customer inquiry workflows using AWS Lambda and API Gateway integrations, improving response times and reliability",
+      "Deployed and managed the website through AWS services (S3, CloudFront, Route 53), optimizing uptime, speed, and global accessibility.",
+      "Implemented form handling and customer inquiry using AWS Lambda and API Gateway integrations, improving response times and reliability.",
     ],
   },
   {
@@ -152,7 +152,7 @@ const experiences = [
     points: [
       "Developed and maintained responsive React interfaces with modular components, integrating REST APIs and AWS-hosted services for dynamic content delivery.",
       "Implemented UI enhancements, accessibility fixes, and performance optimizations based on JIRA tickets and user feedback across multiple feature releases.",
-      "Utilizing tools such as , Git, Github, Redux, Figma, and CloudFront to manage state, streamline collaboration, and deliver consistent, high-quality user experiences.",
+      "Utilized tools such as , Git, Github, Redux, Figma, and CloudFront to manage state, streamline collaboration, and deliver consistent, high-quality user experiences.",
     ],
   },
   // {
